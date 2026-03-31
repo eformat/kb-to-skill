@@ -15,4 +15,4 @@ example: in claude to convert a kcs/kb article into a skill.
 ❯ /kb-to-skill ID=7123129
 ```
 
-generated: [GFS2_GLOCK_PANIC_SKILL.md]([GFS2_GLOCK_PANIC_SKILL.md)
+generated: [examples/GFS2_GLOCK_PANIC_SKILL.md](examples/GFS2_GLOCK_PANIC_SKILL.md)
